@@ -2,37 +2,31 @@ package com.easyone;
 
 import java.util.Scanner;
 
-public class FindProduct {
+class FindProduct {
     public static void main(String[] args) {
-        Scanner scanner=new Scanner(System.in);
-        //total no of element
-        int totalNoElement=scanner.nextInt();
-        int[] numbers=new int[totalNoElement];
-        int[] numbers2=new int[totalNoElement];
-        if(totalNoElement<1||totalNoElement>Math.pow(10, 3))
-        {
+        Scanner scanner = new Scanner(System.in);
+
+        // Read the size of the array
+        int arraySize = scanner.nextInt();
+
+        if (arraySize < 1 || arraySize > 1000) {
             System.exit(0);
         }
-        //read  input
-        for (int i=0;i<numbers.length;i++)
-        {
-            numbers[i]=scanner.nextInt();
+        // Read the array elements
+        int[] array = new int[arraySize];
+        for (int i = 0; i < arraySize; i++) {
+            array[i] = scanner.nextInt();
         }
-        int sum=0;
-        //logic
-        for (int i=0;i<numbers.length;i++)
-        {
-            int value2=numbers[i];
-            int value= (int) (numbers[i-1]*numbers[i] %(Math.pow(10,3)+7));
-            numbers2[i]=value;
-        }
-        System.out.println(sum);
-        System.out.println("---->");
 
-        for (int i=0;i<numbers2.length;i++)
-        {
-            sum+=numbers2[i];
+        // Calculate the product module
+        long module = (long) 1000000007;
+        long product = 1;
+
+        for (int i = 0; i < arraySize; i++) {
+            product = (product * array[i]) % module;
         }
-        System.out.println(sum);
+
+        // Print the result
+        System.out.println(product);
     }
 }

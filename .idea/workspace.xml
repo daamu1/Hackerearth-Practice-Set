@@ -5,27 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9d44742-7bee-4119-9a9c-44be0d95cacc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hacker-Earth.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/easyone/CostOfBalloons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/easyone/Divisibility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/easyone/FactorialNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/easyone/FindProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/easyone/LifeTheUniverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/easyone/MaxBorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/easyone/PalindromeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/easyone/PalindromeString2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/easyone/RoyProfilePicture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/easyone/mode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/easyone/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/easyone/AliAndHelpingInnocentPeople.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/easyone/CountDivisors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/easyone/FavouriteSinger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/easyone/MaximumBorders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/easyone/SevenSegmentDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testing/ArrayReading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testing/BestIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testing/HighestNi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testing/IntegerReadingInDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testing/SevenSegmentDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testing/StrongPasscode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/easyone/FindProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/easyone/FindProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/easyone/MaxBorder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/easyone/mode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/easyone/test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,21 +53,23 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/cyno/project-poc/Product_management/product-management&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/home/cyno/IdeaProjects/Hacker-Earth/src/Main.java&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.testing" />
       <recent name="com.easyone" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="Divisibility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.easyone.Divisibility" />
+  <component name="RunManager" selected="Application.BestIndex">
+    <configuration name="BestIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testing.BestIndex" />
       <module name="Hacker-Earth" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.easyone.*" />
+          <option name="PATTERN" value="com.testing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.easyone.FindProduct" />
+    <configuration name="IntegerReadingInDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testing.IntegerReadingInDigits" />
       <module name="Hacker-Earth" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.easyone.*" />
+          <option name="PATTERN" value="com.testing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxBorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.easyone.MaxBorder" />
+    <configuration name="LargestNumberWithMatchsticks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testing.LargestNumberWithMatchsticks" />
       <module name="Hacker-Earth" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.easyone.*" />
+          <option name="PATTERN" value="com.testing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.easyone.mode" />
+    <configuration name="StrongPasscode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testing.StrongPasscode" />
       <module name="Hacker-Earth" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.easyone.*" />
+          <option name="PATTERN" value="com.easyone.MatchstickNumbers" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.easyone.test" />
+    <configuration name="tew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.easyone.tew" />
       <module name="Hacker-Earth" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.easyone.*" />
+          <option name="PATTERN" value="com.easyone.MatchstickNumbers" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.mode" />
-        <item itemvalue="Application.FindProduct" />
-        <item itemvalue="Application.Divisibility" />
-        <item itemvalue="Application.MaxBorder" />
+        <item itemvalue="Application.BestIndex" />
+        <item itemvalue="Application.LargestNumberWithMatchsticks" />
+        <item itemvalue="Application.IntegerReadingInDigits" />
+        <item itemvalue="Application.StrongPasscode" />
+        <item itemvalue="Application.tew" />
       </list>
     </recent_temporary>
   </component>
@@ -152,6 +149,30 @@
       <updated>1683738463397</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="date">
+                    <value>
+                      <list>
+                        <option value="1683704250779" />
+                        <option value="" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
