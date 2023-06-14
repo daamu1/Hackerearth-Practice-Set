@@ -5,22 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9d44742-7bee-4119-9a9c-44be0d95cacc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/easyone/AliAndHelpingInnocentPeople.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/easyone/CountDivisors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/easyone/FavouriteSinger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/easyone/MaximumBorders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/easyone/SevenSegmentDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/testing/ArrayReading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/testing/BestIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/testing/HighestNi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/testing/IntegerReadingInDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/testing/SevenSegmentDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/testing/StrongPasscode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/easyone/CountOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/easyone/HotelRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/easyone/LargestNumberAfterDeletion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/easyone/SplitHouses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mediumleval/BestIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mediumleval/BestIndex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mediumleval/MinimizeArrayCost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mediumleval/NumberOfSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testing/ArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testing/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testing/SittingArrangement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/testing/StringReplace.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/easyone/FindProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/easyone/FindProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/easyone/MaxBorder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/easyone/mode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/easyone/test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +33,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -53,19 +53,21 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/cyno/project-poc/Product_management/product-management&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/home/cyno/IdeaProjects/Hacker-Earth/src/Main.java&quot;
+    &quot;last_opened_file_path&quot;: &quot;/home/cyno/Desktop/Working_Directory/Login_backend_functionality-main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/cyno/IdeaProjects/Hacker-Earth/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mediumleval" />
       <recent name="com.testing" />
       <recent name="com.easyone" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BestIndex">
-    <configuration name="BestIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.testing.BestIndex" />
+  <component name="RunManager" selected="Application.LargestNumberAfterDeletingDigits">
+    <configuration name="ArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testing.ArraySum" />
       <module name="Hacker-Earth" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +79,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerReadingInDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.testing.IntegerReadingInDigits" />
+    <configuration name="BestIndex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mediumleval.BestIndex2" />
+      <module name="Hacker-Earth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mediumleval.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LargestNumberAfterDeletingDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.easyone.LargestNumberAfterDeletingDigits" />
+      <module name="Hacker-Earth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.easyone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testing.LinearSearch" />
       <module name="Hacker-Earth" />
       <extension name="coverage">
         <pattern>
@@ -90,38 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestNumberWithMatchsticks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.testing.LargestNumberWithMatchsticks" />
+    <configuration name="SittingArrangement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.testing.SittingArrangement" />
       <module name="Hacker-Earth" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.testing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StrongPasscode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.testing.StrongPasscode" />
-      <module name="Hacker-Earth" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.easyone.MatchstickNumbers" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="tew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.easyone.tew" />
-      <module name="Hacker-Earth" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.easyone.MatchstickNumbers" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BestIndex" />
-        <item itemvalue="Application.LargestNumberWithMatchsticks" />
-        <item itemvalue="Application.IntegerReadingInDigits" />
-        <item itemvalue="Application.StrongPasscode" />
-        <item itemvalue="Application.tew" />
+        <item itemvalue="Application.LargestNumberAfterDeletingDigits" />
+        <item itemvalue="Application.BestIndex2" />
+        <item itemvalue="Application.SittingArrangement" />
+        <item itemvalue="Application.LinearSearch" />
+        <item itemvalue="Application.ArraySum" />
       </list>
     </recent_temporary>
   </component>
@@ -184,5 +186,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Hacker_Earth$SplitHouses.ic" NAME="SplitHouses Coverage Results" MODIFIED="1684866169409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.easyone.*</FILTER>
+    </SUITE>
   </component>
 </project>
