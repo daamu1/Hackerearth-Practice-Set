@@ -10,7 +10,7 @@ public class NumberOfSteps {
         int[] array2 = new int[sizeOfArray];
         int n = array1.length;
         int count = 0;
-        Boolean flag = false;
+        boolean flag = false;
         for (int i = 0; i < sizeOfArray; i++) {
             array1[i] = scanner.nextInt();
         }
@@ -34,7 +34,6 @@ public class NumberOfSteps {
             }
         }
         for (int i = 0; i <= n - 1; i++) {
-            flag=false;
             if (array1[i] == array1[i + 1]) {
                 flag = true;
                 break;
