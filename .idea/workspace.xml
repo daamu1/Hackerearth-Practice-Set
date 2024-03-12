@@ -5,21 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9d44742-7bee-4119-9a9c-44be0d95cacc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/easyone/FindPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kata/BetterThanAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kata/BlockLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kata/CenturyFromYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kata/FindAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kata/FindNeedle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kata/FindNextSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kata/GrowthPopulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kata/ReverseWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kata/SignLanguage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kata/SquareSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kata/StringEndsWith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kata/FromAToZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kata/GetSumIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kata/ROT13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kata/StringAddWithoutConvertToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kata/UniqueArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kata/ValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kata/WillYouMake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kata/WordReplacement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mediumleval/NumberOfSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mediumleval/NumberOfSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kata/ReverseWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kata/ReverseWords.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +30,33 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;author&quot;: &quot;daamu1&quot;,
+      &quot;label&quot;: &quot;duplicate&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;author&quot;: &quot;daamu1&quot;,
+    &quot;label&quot;: &quot;duplicate&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="54a196c4-c688-49e3-a80e-f2d80471ee0d" />
+        <option name="url" value="git@github.com:daamu1/Hackerearth-Practice-Set.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar:///usr/lib/jvm/java-1.17.0-openjdk-amd64/lib/src.zip!/java.base/java/lang/Math.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///usr/lib/jvm/java-1.17.0-openjdk-amd64/lib/src.zip!/java.base/java/lang/StringBuilder.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///usr/lib/jvm/java-1.17.0-openjdk-amd64/lib/src.zip!/java.base/java/util/HashSet.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -57,7 +79,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/cyno/CODE-BASE/Hackerearth-Practice-Set&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/home/cyno/IdeaProjects/Hacker-Earth/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -67,7 +89,7 @@
       <recent name="com.easyone" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindNextSquare">
+  <component name="RunManager" selected="Application.UniqueArray">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -98,21 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BestIndex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mediumleval.BestIndex2" />
-      <module name="Hacker-Earth" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mediumleval.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BlockLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kata.BlockLetters" />
+    <configuration name="ROT13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kata.ROT13" />
       <module name="Hacker-Earth" />
       <extension name="coverage">
         <pattern>
@@ -124,8 +133,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindNextSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kata.FindNextSquare" />
+    <configuration name="StringAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kata.StringAdd" />
       <module name="Hacker-Earth" />
       <extension name="coverage">
         <pattern>
@@ -137,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindPair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.easyone.FindPair" />
+    <configuration name="StringAddWithoutConvertToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kata.StringAddWithoutConvertToInteger" />
       <module name="Hacker-Earth" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.easyone.*" />
+          <option name="PATTERN" value="com.kata.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +159,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestNumberAfterDeletingDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.easyone.LargestNumberAfterDeletingDigits" />
+    <configuration name="UniqueArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kata.UniqueArray" />
       <module name="Hacker-Earth" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.easyone.*" />
+          <option name="PATTERN" value="com.kata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordReplacement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kata.WordReplacement" />
+      <module name="Hacker-Earth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kata.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindNextSquare" />
-        <item itemvalue="Application.BlockLetters" />
-        <item itemvalue="Application.FindPair" />
-        <item itemvalue="Application.LargestNumberAfterDeletingDigits" />
-        <item itemvalue="Application.BestIndex2" />
+        <item itemvalue="Application.UniqueArray" />
+        <item itemvalue="Application.ROT13" />
+        <item itemvalue="Application.StringAddWithoutConvertToInteger" />
+        <item itemvalue="Application.StringAdd" />
+        <item itemvalue="Application.WordReplacement" />
       </list>
     </recent_temporary>
   </component>
@@ -221,8 +243,17 @@
           <line>5</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/kata/ReverseWords.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Hacker_Earth$SplitHouses.ic" NAME="SplitHouses Coverage Results" MODIFIED="1684866169409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
